@@ -1,0 +1,8 @@
+airflow users create \
+  --username Ny Antsa \
+  --firstname Aina Ny Antsa \
+  --lastname Ratovonandrasana \
+  --role Admin \
+  --email antsamadagascar@gmail.com \
+  --password smile290705
+
